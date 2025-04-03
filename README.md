@@ -48,8 +48,8 @@ Year
 
 **Key Analysis & Features**
 
-1.Identify the most successful video games and genres.
-2.Compare sales across different gaming platforms.
-3.Analyze regional preferences for video game genres.
-4.Predict future sales using Machine Learning models.
+1.Identify the most successful video games and genres.  
+2.Compare sales across different gaming platforms.  
+3.Analyze regional preferences for video game genres.  
+4.Predict future sales using Machine Learning models.  
 5.Create interactive dashboards for visualization.
