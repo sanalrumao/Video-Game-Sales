@@ -1,8 +1,8 @@
-📌 Project Overview
+** Project Overview**
 
 This project aims to analyze video game sales data to uncover trends, regional preferences, and key factors influencing game sales. Using Python, we perform data cleaning, exploratory data analysis (EDA), visualization, and predictive modeling to gain insights into the gaming industry.
 
-📊 Objectives
+** Objectives**
 
 Data Cleaning & Preprocessing: Handle missing values, normalize data, and ensure consistency.
 
@@ -14,9 +14,9 @@ Predictive Modeling: Use regression models to predict sales based on various fea
 
 Data Visualization: Generate graphs and charts for better insights.
 
-🛠️ Tech Stack
+**** Tech Stack
 
-Programming Language: Python 🐍
+**Programming Language:** Python 
 
 Libraries Used:
 
@@ -30,7 +30,7 @@ scikit-learn (Machine learning models)
 
 plotly (Interactive visualizations)
 
-📂 Dataset
+** Dataset**
 
 The dataset includes details such as:
 
@@ -44,8 +44,12 @@ Publisher
 
 Sales (Global, NA, EU, JP, etc.)
 
-Year of Release
+Year 
 
-📈 Key Analysis & Features
+**Key Analysis & Features**
 
-✔️ Identify the most successful video games and genres.✔️ Compare sales across different gaming platforms.✔️ Analyze regional preferences for video game genres.✔️ Predict future sales using Machine Learning models.✔️ Create interactive dashboards for visualization.
+1.Identify the most successful video games and genres.
+2.Compare sales across different gaming platforms.
+3.Analyze regional preferences for video game genres.
+4.Predict future sales using Machine Learning models.
+5.Create interactive dashboards for visualization.
