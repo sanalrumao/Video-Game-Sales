@@ -18,9 +18,7 @@ Data Visualization: Generate graphs and charts for better insights.
 
 **Programming Language:** Python 
 
-**Libraries Used:**
-
-pandas (Data manipulation)
+**Libraries Used:** pandas (Data manipulation)
 
 numpy (Numerical analysis)
 
